@@ -1,4 +1,4 @@
-### Hlo there, Myself Jim Tony 👋
+### Hlo peepz!!, Myself Jim Tony 👋
 
 ## I'm a Student, Developer, and a Learner!!
 >>>> <i> Pursuing my Computer Science and Engineering degree at College of Engineering Guindy </i>

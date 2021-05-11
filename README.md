@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning something interesting....
 - 🥅 My Goal: Become a Full-Stack Developer....
 - ⚡ Fun fact: I love to Workout and get ripped...
+<br><br>
 
 
 ### Connect with me:
@@ -13,7 +14,6 @@
 [<img align="left" alt="tony | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jim-Tony&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="tony" /></p>
 
 [twitter]: https://twitter.com/JimTony12265954
 [linkedin]: https://www.linkedin.com/in/jim-tony-531aa5178/

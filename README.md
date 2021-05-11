@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to Workout and get ripped...
 <br><br>
 
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jim-Tony&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="tony" /></p><br>
 ### Connect with me:
 [<img align="left" alt="tony | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="tony | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
